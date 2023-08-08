@@ -10,4 +10,5 @@ If you want to contribute with your ideas, create an issue.
 ## Change Log
 
 v 1.0 Initial creation
+
 v 1.0.2 bug fixes and minor enhancements
