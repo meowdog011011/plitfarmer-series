@@ -15,4 +15,6 @@ If you want to contribute with your ideas, create an issue. All ideas and feedba
 
 8/9/2023 10:58 AM - v 1.0.2 bug fixes and minor enhancements
 
-8/10/2023 11:20 AM - v 1.1.0 fixed [this bug](https://github.com/meowdog011011/first-unity-game/issues/1) and added some more enhancements and a pause option.
+8/10/2023 11:20 AM - v 1.1.0 added some more enhancements and a pause option.
+
+8/10/2023 2:01 PM - v 1.1.1 fixed Shooting Enemy's bug. Mistakenly believed to be resolved in v 1.1.0, but now I think it is truly fixed.
