@@ -327,7 +327,7 @@ MonoBehaviour:
       m_Calls: []
   m_text: 'Use left and right arrow keys to move
 
-    Use space to jump
+    Use up arrow key to jump
 
     Avoid
     the lava!

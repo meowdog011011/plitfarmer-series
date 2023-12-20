@@ -5,7 +5,7 @@
 This repo will contain all versions of this game.
 By version I mean everything in the Assets folder, plus the built version.
 
-If you want to rebuild it, I am using Unity version [**2022.3.6f1**](https://unity.com/releases/editor/whats-new/2022.3.6).
+If you want to rebuild it, I am using Unity version [**2022.3.6f1**](https://unity.com/releases/editor/whats-new/2022.3.6) for versions 1.1.10 and under. For the rest, I used Unity version [**2023.2.1f1**](https://unity.com/releases/editor/whats-new/2023.2.1).
 
 If you want to contribute with your ideas, create an issue. All ideas and feedback are welcome!
 
@@ -28,3 +28,8 @@ If you want to contribute with your ideas, create an issue. All ideas and feedba
 - blinking player!
 - added new level button when you lose
 - special effect when you win
+
+12/20/2023 3:15 PM - Made these changes:
+- add slight bounciness for player
+- player now jumps using up arrow key
+- modified blinking
