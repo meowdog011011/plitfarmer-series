@@ -29,7 +29,7 @@ If you want to contribute with your ideas, create an issue. All ideas and feedba
 - added new level button when you lose
 - special effect when you win
 
-12/20/2023 3:15 PM - Made these changes:
+12/20/2023 3:15 PM - v 1.2.0 Made these changes:
 - add slight bounciness for player
 - player now jumps using up arrow key
 - modified blinking
