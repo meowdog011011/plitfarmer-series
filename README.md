@@ -3,9 +3,8 @@
 ## my first unity game: Plitfarmer Platformer
 
 This repo will contain all versions of this game.
-By version I mean everything in the Assets folder, plus the built version.
 
-If you want to rebuild it, I am using Unity version [**2022.3.6f1**](https://unity.com/releases/editor/whats-new/2022.3.6) for versions 1.1.10 and under. For the rest, I used Unity version [**2023.2.1f1**](https://unity.com/releases/editor/whats-new/2023.2.1).
+If you want to rebuild it, I am using Unity version [**2022.3.6f1**](https://unity.com/releases/editor/whats-new/2022.3.6) for versions 1.1.10 and under. For the rest (1.2.0 and up), I used Unity version [**2023.2.1f1**](https://unity.com/releases/editor/whats-new/2023.2.1).
 
 If you want to contribute with your ideas, create an issue. All ideas and feedback are welcome!
 
@@ -33,3 +32,6 @@ If you want to contribute with your ideas, create an issue. All ideas and feedba
 - add slight bounciness for player
 - player now jumps using up arrow key
 - modified blinking
+**WARNING!** Version 1.2.0 has many bugs. Do not use.
+
+1/27/2024 9:07 PM - v 1.2.1 Minor enhancements. Also removed new blinking and slight bounciness.
