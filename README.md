@@ -1,6 +1,4 @@
-# first-unity-game
-
-## my first unity game: Plitfarmer Platformer
+# my first unity game: Plitfarmer Platformer
 
 This repo will contain all versions of this game.
 
