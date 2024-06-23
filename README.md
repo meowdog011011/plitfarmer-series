@@ -30,6 +30,7 @@ If you want to contribute with your ideas, create an issue. All ideas and feedba
 - add slight bounciness for player
 - player now jumps using up arrow key
 - modified blinking
+
 **WARNING!** Version 1.2.0 has many bugs. Do not use.
 
 1/27/2024 9:07 PM - v 1.2.1 Minor enhancements. Also removed new blinking and slight bounciness.
