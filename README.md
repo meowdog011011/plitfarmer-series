@@ -21,7 +21,7 @@ If you want to contribute with your ideas, create an issue. All ideas and feedba
 8/24/2023 11:55 PM - v 1.1.10 added **Liberation Sans** to the credits and did a number of other changes:
 - changed pause behaviour with entities
 - changed hitboxes of spike and enemies
-- Shooting Enemies will now only spawn at lvl. 5 or higher
+- Shooting Enemies will now only spawn at lvl. 3 or higher
 - blinking player!
 - added new level button when you lose
 - special effect when you win
