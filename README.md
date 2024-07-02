@@ -34,3 +34,5 @@ If you want to contribute with your ideas, create an issue. All ideas and feedba
 **WARNING!** Version 1.2.0 has many bugs. Do not use.
 
 1/27/2024 9:07 PM - v 1.2.1 Minor enhancements. Also removed new blinking and slight bounciness.
+
+7/2/2024 12:31 PM - v 1.3 Added difficulty chooser and fixed a bug where returning to main menu preserves your level.
