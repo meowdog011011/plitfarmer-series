@@ -1,12 +1,10 @@
-# my first unity game: Plitfarmer Platformer
+# my first unity games: The Plitfarmer Series
 
-This repo will contain all versions of this game.
-
-If you want to rebuild it, I am using Unity version [**2022.3.6f1**](https://unity.com/releases/editor/whats-new/2022.3.6) for versions 1.1.10 and under. For the rest (1.2.0 and up), I used Unity version [**2023.2.1f1**](https://unity.com/releases/editor/whats-new/2023.2.1).
+This repo will contain all versions of the game Plitfarmer Platformer and the sequel, Plitfarmer Blockbreaker.
 
 If you want to contribute with your ideas, create an issue. All ideas and feedback are welcome!
 
-## Change Log
+## Change Log: Plitfarmer Platformer
 
 8/7/2023 3:39 PM - v 1.0 Initial creation
 
@@ -36,3 +34,7 @@ If you want to contribute with your ideas, create an issue. All ideas and feedba
 1/27/2024 9:07 PM - v 1.2.1 Minor enhancements. Also removed new blinking and slight bounciness.
 
 7/2/2024 12:31 PM - v 1.3 Added difficulty chooser and fixed a bug where returning to main menu preserves your level.
+
+## Change Log: Plitfarmer Blockbreaker
+
+6/13/2024 7:36 AM - v 1.0.0 Initial creation
