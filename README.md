@@ -1,8 +1,6 @@
 # my first unity games: The Plitfarmer Series
 
-This repo will contain all versions of the game Plitfarmer Platformer and the sequel, Plitfarmer Blockbreaker.
-
-If you want to contribute with your ideas, create an issue. All ideas and feedback are welcome!
+This repo contains all versions of the game Plitfarmer Platformer and the sequel, Plitfarmer Blockbreaker. It is archived as I do not plan on working on it anymore.
 
 ## Change Log: Plitfarmer Platformer
 
